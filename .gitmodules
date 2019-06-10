@@ -1,4 +1,0 @@
-[submodule "delayed_pendulum_env"]
-	path = delayed_pendulum_env
-	url = git@github.com:ipab-rad/delayed_pendulum_env.git
-	branch = master
